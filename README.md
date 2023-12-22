@@ -34,8 +34,7 @@ badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.p
 銜接之間的落差。
 
 若您致力讓您的程式基底完全遵循此標準，並想在未來能取得認證，請寫信與我們聯繫：
-[info@publiccode.net](mailto:info@publiccode.net)，以展開正式[評
-估](https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram.html#assessment)。
+[info@publiccode.net](mailto:info@publiccode.net)，以展開正式[評估](https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram.html#assessment)。
 
 ## 徵求貢獻
 
@@ -46,9 +45,7 @@ badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.p
 本標準放在線上：[standard.publiccode.net](https://standard.publiccode.net/)。請參閱
 [`index.md`](index.md) 查看整體內容概覽。
 
-[![《公共程式標準》的影片縮圖：兩隻手中間放著本標準的印刷
-本](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?
-v=QWt6vB-cipE)
+[![《公共程式標準》的影片縮圖：兩隻手中間放著本標準的印刷本](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
 
 [《公共程式標準》的影片介紹](https://www.youtube.com/watch?v=QWt6vB-cipE)，出自 Creative Commons
 Global Summit 2020 (4:12)，放在 YouTube 上。
